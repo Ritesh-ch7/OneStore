@@ -1,2 +1,13 @@
-*/__pycache__/
-*/venv/
+.env
+*/bin
+*.pyc/
+*/lib
+*/lib64
+*/share
+*/unicode_characters
+*/wordlist
+*/include
+*/scripts
+*/*.cfg
+__pycache__/
+venv/
